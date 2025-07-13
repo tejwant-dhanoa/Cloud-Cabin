@@ -17,22 +17,19 @@ Visit the live application:
 
 ## 📸 Screenshots
 
-| Login Screen | Dashboard Overview |
-|--------------|--------------------|
-| ![login.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/login.png) | ![dashboard.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dashboard.png) |
+| Dashboard Overview | Dark Mode |
+|--------------------|-----------|
+| ![dashboard.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dashboard.png) | ![dark.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dark.png) |
 
-| Cabin Management | Booking View |
-|------------------|--------------|
-| ![cabins.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/cabins.png) | ![bookings.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/bookings.png) |
+| Booking View | Cabin Management |
+|--------------|------------------|
+| ![bookings.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/booking.png) | ![cabins.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/cabin.png) |
 
-| Check-in Panel | Stay Summary Chart |
-|----------------|--------------------|
-| ![checkin.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/checkin.png) | ![chart.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/chart.png) |
+| Login Screen | Update User |
+|--------------|-------------|
+| ![login.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/login.png) | ![update-user.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/update.png) |
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![light.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/light.png) | ![dark.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dark.png) |
-
+---
 
 ##  Features
 
