@@ -3,10 +3,36 @@
 **The Cloud Cabin** is an internal hotel booking management application designed for staff to seamlessly manage cabin reservations, staff accounts, and operational metrics. It features a responsive dashboard with both **light** and **dark** modes, offering real-time insights into bookings, sales, occupancy, and check-ins.
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-cloud--cabin.vercel.app-blue?style=for-the-badge)](https://cloud-cabin.vercel.app/login)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-MERN%20%7C%20Tailwind%20CSS%20%7C%20React%20Query%20%7C%20Framer%20Motion%20%7C%20Supabase-blueviolet?style=for-the-badge)](#tech-stack)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Tailwind%20CSS%20%7C%20Supabase%20%7C%20React%20Query%20%7C%20Framer%20Motion-blueviolet?style=for-the-badge)](#tech-stack)
 [![Developer](https://img.shields.io/badge/Developer-Tejwant%20Kaur%20Dhanoa-ff69b4?style=for-the-badge)](#developer)
 
 ---
+
+## 🌐 Live Site
+
+Visit the live application:  
+🔗 [The Cloud Cabin is live on Vercel](https://cloud-cabin.vercel.app/login)
+
+---
+
+## 📸 Screenshots
+
+| Login Screen | Dashboard Overview |
+|--------------|--------------------|
+| ![login.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/login.png) | ![dashboard.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dashboard.png) |
+
+| Cabin Management | Booking View |
+|------------------|--------------|
+| ![cabins.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/cabins.png) | ![bookings.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/bookings.png) |
+
+| Check-in Panel | Stay Summary Chart |
+|----------------|--------------------|
+| ![checkin.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/checkin.png) | ![chart.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/chart.png) |
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![light.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/light.png) | ![dark.png](https://raw.githubusercontent.com/tejwant-dhanoa/Cloud-Cabin/main/assets/dark.png) |
+
 
 ##  Features
 
