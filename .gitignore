@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# OS/editor junk
+.DS_Store
+
+# IDE settings (optional, but good for teams)
+.vscode/
+.idea/
+
+# Vite cache (recommended)
+.vite/
