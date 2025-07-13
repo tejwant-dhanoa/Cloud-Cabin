@@ -59,20 +59,6 @@ Visit the live application:
 
 ---
 
-## 📸 Dashboard Preview
-
-The dashboard displays:
-- **Bookings**: Total count
-- **Sales**: Revenue overview
-- **Check-ins**: Daily activity
-- **Occupancy Rate**: Real-time metric
-- **Stay Duration Summary**: Pie chart breakdown
-- **Sales Graph**: Weekly trend line
-
-> The app is fully responsive and optimized for staff workflows.
-
----
-
 ## 👩‍💻 Developer
 
 Crafted by **Tejwant Kaur Dhanoa**  
